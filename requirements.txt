@@ -1,6 +1,2 @@
-black
-flake8
-isort
-pip
-python-dotenv
--e .
+transformers==4.49.0
+pillow==11.1.0
